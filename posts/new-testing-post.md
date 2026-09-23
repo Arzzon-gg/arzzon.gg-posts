@@ -1,14 +1,13 @@
 ---
 title: New Testing Post
 description: Short description
-for testing blogs
 author: Arzzon
 date: 2026-09-23T16:09:35.165Z
-updated: 2026-09-23T16:09:35.165Z
+updated: 2026-09-23T16:57:35.169Z
 tags: 
 cover: ""
 division: general
-published: false
+published: true
 ---
 
 # SQL Practice Quiz — Part 2
